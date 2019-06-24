@@ -14,6 +14,7 @@ namespace game
     /// </summary>
     public class Game1 : Game
     {
+        //確認
         // フィールド（このクラスの情報を記述）
         private GraphicsDeviceManager graphicsDeviceManager;//グラフィックスデバイスを管理するオブジェクト
         private SpriteBatch spriteBatch;//画像をスクリーン上に描画するためのオブジェクト
