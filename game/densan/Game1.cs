@@ -6,7 +6,7 @@ using Microsoft.Xna.Framework.Input;
 /// <summary>
 /// プロジェクト名がnamespaceとなります
 /// </summary>
-namespace densan
+namespace densan//コメント
 {
     /// <summary>
     /// ゲームの基盤となるメインのクラス
